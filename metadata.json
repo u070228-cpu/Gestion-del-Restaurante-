@@ -1,0 +1,6 @@
+{
+  "name": "GastroGestión OS",
+  "description": "Premium Hybrid ERP and POS solution for restaurant management featuring access control, interactive tables layout, automated kitchen simulator, billing, stock inventory, and employee scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
